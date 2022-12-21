@@ -8,4 +8,4 @@ include_directories(include)
 add_executable(DZ3
         include/DZ3.hpp
         main/main.cpp
-        source/bruh.cpp)
+        source/source.cpp)
